@@ -10,8 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.13.0",
     "@nuxtjs/tailwindcss": "^6.12.1",
-    "chart.js": "^4.4.1"
+    "chart.js": "^4.4.1",
+    "css-select": "^5.1.0",
+    "nuxt": "^3.13.0"
   }
 }
